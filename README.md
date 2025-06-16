@@ -6,8 +6,8 @@
 
 
 
--    I am currently studying for a Bachelor of Computer Science at ASUE and working at FAST(Foundation for Armenian Science and Technology) in Generation AI program.
--    I am diving deep into the exciting worlds of machine learning  and data science.
+-    I have graduated with a Bachelor's degree in Computer Science from ASUE. Currently, I am working at the Foundation for Armenian Science and Technology (FAST), where I work on the Generation AI program..
+-    I am actively learning and gaining experience in machine learning and data science, while remaining open to new opportunities in these or related fields.
 -    Reach me through:  www.linkedin.com/in/monica-av   
 -    Fun fact: I love 🐵s, swimming🏊 and nail art💅.
 
