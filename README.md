@@ -8,7 +8,7 @@
 
 -    I am currently studying for a Bachelor of Computer Science at ASUE and working at FAST(Foundation for Armenian Science and Technology) in Generation AI program.
 -    I am diving deep into the exciting worlds of machine learning  and data science.
--    Reach me through:  avagyanmonika3@gmail.com  📫 
+-    Reach me through:  www.linkedin.com/in/monica-av   
 -    Fun fact: I love 🐵s, swimming🏊 and nail art💅.
 
 
