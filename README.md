@@ -2,7 +2,7 @@
 ### Hi there, I'm Monica  
 
 
-<img align="right" src="https://github.com/monica06-yan/IamMonicaAvagyan/blob/master/image/img.jpg" width="400" height="550">
+<img align="right" src="https://github.com/monica06-yan/monica06-yan/blob/master/image/img.jpg" width="400" height="550">
 
 
 
